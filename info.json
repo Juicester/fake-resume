@@ -1,0 +1,22 @@
+{
+	"name": "Justin Ross Pedowitz",
+	"website": "https://github.com/Juicester",
+	"linkedin": "https://www.linkedin.com/in/justinpedowitz/",
+	"github": "Juicester",
+	"email": "justin@pedowitz.net",
+	"resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"C#",
+		"Node",
+		"C++",
+		"Mongodb",
+		"SQL",
+		"Python",
+		"Java",
+		"CSS",
+		"HTML"
+	],
+	"otherSkills": ["nunchuck skills", "Bow fighting skills", "Epic Dancing"]
+}
